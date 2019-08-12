@@ -1,0 +1,19 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+
+# build artifacts
+out/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+
+# static
+/.metadata/
